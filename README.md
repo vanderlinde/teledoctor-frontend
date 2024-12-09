@@ -1,3 +1,9 @@
+
+## Create the .env file, use env-dev.env
+```bash
+$ mv env-dev.env .env
+```
+
 ## Getting Started
 
 First, run the development server:
